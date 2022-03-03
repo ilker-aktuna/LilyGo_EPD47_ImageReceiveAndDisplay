@@ -40,6 +40,24 @@ If the device is turned off, you have to turn it on or reset with the leftmost b
 
 # 2. Android client application
 
+<h3 align = "left">Installing the app on your device:</h3>
+
+- You need an Android phone/tablet with Android 10 or above OS
+- Please install the app from [Google Play]https://play.google.com/store/apps/details?id=com.aktuna.aposter
+- Connect your EPD47 device to your wifi network as described in instructions above
+- Connect your phone to the same wifi network
+- Run the app on your phone/tablet
+- If both devices are connected to the same network, the Android app will find the EPD47 IP address from its mDNS name ("display") and show it in the IP address field
+- If the IP is not detected for any reason, you can manually enter the IP address shown on EPD47 screen bottom line
+
+<h3 align = "left">Using the app:</h3>
+
+- There are 3 buttons on the application
+- "Send Image" button lets you select an image from files on your Android device and send it to the EPD47 screen after conversion
+- "Clear Image" button sends a command to the display to clear its screen
+- "Power Off" button sends a command to the display to turn it off 
+- After power off , screen keeps the last image displayed but does not use any power. So it is disconnected. If you want to send another image after this state, you have to power cycle the EPD47 device or reset by using the letfmost button over the display
+
 # credits:
 Thanks to my dear friend [Faik Sağlar](https://github.com/ismetfaik) for helping me on converting the image data to the binary format before sending it to the device.
 
