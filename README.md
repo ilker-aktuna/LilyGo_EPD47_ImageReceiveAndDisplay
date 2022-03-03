@@ -1,5 +1,3 @@
-![ic_launcher_foreground](https://user-images.githubusercontent.com/51407106/156646483-9fe392ed-b12e-408f-8809-478c994db583.png)
-
 # LilyGo EPD47 Image Receive And Display
 
 This is a project to display image sent from Android phone on LilyGo 4.7inch e-paper display.
@@ -12,6 +10,8 @@ You need a LilyGo EPD47 (4.7 inch e-paper display) and an Android device (Androi
 Please see the instructions below for installation and use of both parts. 
 
 If you have any suggestions to make this project better, please feel free to send it to me. You can also contribute to the project sending pull requests or creating a fork.
+
+![ic_launcher_foreground](https://user-images.githubusercontent.com/51407106/156646483-9fe392ed-b12e-408f-8809-478c994db583.png)
 
 # 1. Arduino server application
 
