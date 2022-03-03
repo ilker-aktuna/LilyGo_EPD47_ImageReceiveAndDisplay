@@ -1,3 +1,5 @@
+![ic_launcher_foreground](https://user-images.githubusercontent.com/51407106/156646483-9fe392ed-b12e-408f-8809-478c994db583.png)
+
 # LilyGo EPD47 Image Receive And Display
 
 This is a project to display image sent from Android phone on LilyGo 4.7inch e-paper display.
