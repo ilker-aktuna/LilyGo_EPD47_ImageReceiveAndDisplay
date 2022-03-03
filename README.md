@@ -37,3 +37,7 @@ At this point it is ready to receive commands from Android application.
 If the device is turned off, you have to turn it on or reset with the leftmost button over the display to make it connect to the network again.
 
 # 2. Android client application
+
+# credits:
+Thanks to my dear friend [Faik Sağlar](https://github.com/ismetfaik) for helping me on converting the image data to the binary format before sending it to the device.
+
